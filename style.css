@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+#nav {
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 25em;
+}
+
+#header {
+    font-weight: 900;
+    color: white;
+}
+
+/* img {
+    object-fit: cover;
+    object-position: center;
+    width: max-content;
+} */
