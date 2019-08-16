@@ -12,6 +12,12 @@ body {
     color: white;
 }
 
+#video1 {
+    margin-top:5%;
+}
+/* video {
+    margin-left: 400px;
+} */
 /* img {
     object-fit: cover;
     object-position: center;
